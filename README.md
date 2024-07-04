@@ -22,9 +22,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p>&nbsp;<img align="right" width='400' src="https://github-readme-stats.vercel.app/api?username=usamamirza1234&show_icons=true&locale=en" alt="usamamirza1234" /></p>
-
-
+<p><img align="right" width='400' src="https://github-readme-stats.vercel.app/api?username=usamamirza1234&show_icons=true&locale=en" alt="usamamirza1234" /></p>
 <h4 align="left">Frontend Development</h4>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
