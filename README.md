@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [www.usamakhalidmirza.com](https://www.usamakhalidmirza.io)
 
-- 💬 Ask me about **Backend Development, Servers and Data Engineering**
+- 💬 Ask me about **Backend, Frontend, Servers and Data**
 
 - 📫 How to reach me **usamak.mirza@gmail.com**
 
