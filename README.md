@@ -39,11 +39,10 @@
 <h4 align="left">Backend Development</h4>
 <p align="left">
 
-<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> 
     <img src="https://www.svgrepo.com/show/349494/ruby.svg" alt="ruby" width="40" height="40"/> 
   </a> 
-  
-    <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> 
+  <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> 
   </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
