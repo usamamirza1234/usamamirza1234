@@ -1,8 +1,4 @@
-Got it! I'll add the programming languages section back in and make sure to include the original technologies in their appropriate categories.
 
-Here is the updated HTML:
-
-```html
 [![MasterHead](https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif)](https://usamakhalidmirza.io)
 <h1 align="center">Hi 👋, I'm Usama Khalid Mirza</h1>
 <h3 align="center">A dedicated software developer currently residing in Germany.</h3>
