@@ -19,11 +19,12 @@
 <a href="https://medium.com/@usamak.mirza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@usamak.mirza" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="right" width='400' src="https://github-readme-stats.vercel.app/api?username=usamamirza1234&show_icons=true&locale=en" alt="usamamirza1234" /></p>
-
 
 
 <h3 align="left">Languages and Tools:</h3>
+<p>&nbsp;<img align="right" width='400' src="https://github-readme-stats.vercel.app/api?username=usamamirza1234&show_icons=true&locale=en" alt="usamamirza1234" /></p>
+
+
 <h4 align="left">Frontend Development</h4>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
