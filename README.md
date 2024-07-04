@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif)](https://usamakhalidmirza.io)
+[![MasterHead](https://camo.githubusercontent.com/15e18daf23fc4245b30248bdbd087cacf017b28adf48d4da256ce243a437128f/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f30662f32352f65342f30663235653436363863316337373430623565643431383335333339643637662e676966)](https://usamakhalidmirza.io)
 <h1 align="center">Hi 👋, I'm Usama Khalid Mirza</h1>
 <h3 align="center">A dedicated software developer currently residing in Germany.</h3>
 <img align='right' alt='coding' width='400' src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif'>
