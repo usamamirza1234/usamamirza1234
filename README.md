@@ -24,7 +24,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <h4 align="left">Frontend Development</h4>
-<p><img align="right" width='400' src="https://github-readme-stats.vercel.app/api?username=usamamirza1234&show_icons=true&locale=en" alt="usamamirza1234" /></p>
+
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
@@ -105,7 +105,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
   </a>
 </p>
-
+<p><img align="right" width='400' src="https://github-readme-stats.vercel.app/api?username=usamamirza1234&show_icons=true&locale=en" alt="usamamirza1234" /></p>
 <h4 align="left">Databases</h4>
 <p align="left"> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
